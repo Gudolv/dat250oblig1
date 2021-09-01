@@ -1,6 +1,6 @@
-# Starting out with [Heroku][https://www.heroku.com/]
+# Starting out with [Heroku](https://www.heroku.com/)
 
-os:[Endeavour][https://endeavouros.com/]
+os:[Endeavour](https://endeavouros.com/)
 
 
 ## Technical problems during installation
@@ -22,6 +22,6 @@ I did not encounter any technical problems with the heroku platform.
 As far as I can see, I managed to do all the assignments from the tutorial
 
 
-[The hello app][https://sleepy-oasis-15486.herokuapp.com/hello]
+[The hello app](https://sleepy-oasis-15486.herokuapp.com/hello)
 
 
