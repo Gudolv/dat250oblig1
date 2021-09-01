@@ -11,11 +11,11 @@ the cache with "yarn cache clean" in the terminal.
 
 ## Validating that the software development environment is working
 
-Following the tutorial, I made some of the changes in the **Main.java** file, commited these changes, pushed them and checked if the changes went through.
+Following the tutorial, I made some of the changes in the **Main.java** file, commited these changes, pushed them and checked if the changes went through by running the application with "heroku open hello" .
 
 ## Technical problems with the heroku platform
 
-I did not encounter any technical problems with the heroku platform.
+I did not encounter any technical problems with the heroku platform except self-made ones, like a couple of typos in the java-code causing maven not to be able to build the app, easily fixed by correcting the typo.
 
 ## Pending issues
 
