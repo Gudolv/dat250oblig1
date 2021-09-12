@@ -36,5 +36,8 @@ Here there are 10 tables created, one for each of the classes and one for each r
 
 ![Experiment2](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Experiment2.png)
 
+### Pending Issues
 
+I don't think there are any pressing pending issues. I was not sure what the "count" variable should be used for so it remains unsued. Also the main-function 
+is not pretty, it could probably be improved considerably. 
 
