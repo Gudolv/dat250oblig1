@@ -22,19 +22,19 @@ I used the database-tool in intellij to inspect the tables that were created. Co
 ### Example 1 - Todo
 Here there was just one table created called TODO
 
-![Example1](/dat250oblig1/Screenshots/Example1.png?raw=true "Example1")
+![Example1](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Example1.png)
 
 ### Example 2 - Family
 
 Here there were 5 tables created, one for each class and  one for each relationship between the different classes. 
 
-![Example2](/dat250oblig1/Screenshots/Example1.png ?raw=true "Example2")
+![Example2](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Example2.png)
 
 ### Experiment 2 - Bank
 
 Here there are 10 tables created, one for each of the classes and one for each relationship between the different classes.
 
-![Experiment2](/dat250oblig1/Screenshots/Example1.png ?raw=true "Experiment 2")
+![Experiment2](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Experiment2.png)
 
 
 
