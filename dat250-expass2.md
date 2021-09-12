@@ -28,7 +28,7 @@ Here there was just one table created called TODO
 
 Here there were 5 tables created, one for each class and  one for each relationship between the different classes. 
 
-![Example2](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Example2.png)
+![Example2](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/Exmple2.png)
 
 ### Experiment 2 - Bank
 
