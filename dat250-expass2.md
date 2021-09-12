@@ -11,9 +11,9 @@ than it was worth due to me not being that well versed with git so I ended up cr
 
 ## Links to the code
 
-[Example1](https://github.com/Gudolv/dat250-jpa-ex1/tree/master)
-[Example2](https://github.com/Gudolv/dat250-jpa-ex1-2/tree/master)
-[Experiment2](https://github.com/Gudolv/dat250-exp2/tree/master)
+[Example1](https://github.com/Gudolv/dat250-jpa-ex1/tree/master) /
+[Example2](https://github.com/Gudolv/dat250-jpa-ex1-2/tree/master) /
+[Experiment2](https://github.com/Gudolv/dat250-exp2/tree/master) /
 
 ## Inspecting tables and what tables where created
 
@@ -22,16 +22,19 @@ I used the database-tool in intellij to inspect the tables that were created. Co
 ### Example 1 - Todo
 Here there was just one table created called TODO
 
-![Example1](/relative/path/to/img.jpg?raw=true "Example1")
+![Example1](/dat250oblig1/Screenshots/Example1.png?raw=true "Example1")
 
 ### Example 2 - Family
 
-Here there were 5 tables created 
+Here there were 5 tables created, one for each class and  one for each relationship between the different classes. 
 
-![Example2](/relative/path/to/img.jpg?raw=true "Example2")
+![Example2](/dat250oblig1/Screenshots/Example1.png ?raw=true "Example2")
 
 ### Experiment 2 - Bank
 
+Here there are 10 tables created, one for each of the classes and one for each relationship between the different classes.
+
+![Experiment2](/dat250oblig1/Screenshots/Example1.png ?raw=true "Experiment 2")
 
 
 
