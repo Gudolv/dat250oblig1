@@ -33,7 +33,7 @@ I did download the file and followed the procedure aswell.
 
 ### Crud - Bulk Write Operations
 
-![Bulk Write]()
+![Bulk Write](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/BulkWriteDoc.png)
 
 
 ## Experiment 2
