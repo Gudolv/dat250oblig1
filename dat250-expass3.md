@@ -38,12 +38,7 @@ I did download the file and followed the procedure aswell.
 
 ## Experiment 2
 
-![MapReduce Function1]()
+![MapReduce Function1](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/MapReductionAggregateExp.png)
 
-![MapReduce Function2 personal]()
-
-
-
-
-
+![MapReduce Function2 personal](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/MapReduceExp2.png)
 
