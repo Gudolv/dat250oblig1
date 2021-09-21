@@ -12,7 +12,7 @@ However this made manualy verifying the package more difficult. In the end I cho
 As I installed it through a package manager, I didn't have installationfiles to validate.
 ![Package manager](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/PacketHashSum.png)
 
-I did download the file and followed the procedure aswell.
+I did download a file and tried to follow the procedure aswell (yes I know its for macOS, I'm wondering if that is the cause of the errormessage?) 
 ![Manual verifiy](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/SigVerify.png)
 
 ## Experiment 1
