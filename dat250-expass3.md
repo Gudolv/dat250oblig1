@@ -8,10 +8,10 @@ but I choose to install **mongo-db-bin** package. This seemed to work very well 
 ## Validation
 
 As I installed it through a package manager, I didn't have installationfiles to validate.
-![Package manager]()
+![Package manager](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/PacketHashSum.png)
 
 I did download the file and followed the procedure aswell.
-![Manual verifiy]()
+![Manual verifiy](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/SigVerify.png)
 
 ## Experiment 1
 
