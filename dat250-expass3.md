@@ -5,6 +5,8 @@
 I had no technical problems installing MongoDb. It was an annoyance that MongoDB had been removed from the offical repositories [wiki](https://wiki.archlinux.org/title/MongoDB),
 but I choose to install **mongo-db-bin** package. This seemed to work very well for the experiment.
 
+However this made manualy verifying the package more difficult. In the end I choose to just follow the example from the webpage.
+
 ## Validation
 
 As I installed it through a package manager, I didn't have installationfiles to validate.
@@ -45,4 +47,4 @@ I did download the file and followed the procedure aswell.
 This function counts how many times a customer is registered in the database and is usefull for example if you have a reward program or want to know who your return customers are. 
 
 # Pending issues
-I dont think there are any pending issues. 
+Manualy verifying the package downloaded with the packet-manager has not been done. 
