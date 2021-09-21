@@ -42,3 +42,7 @@ I did download the file and followed the procedure aswell.
 
 ![MapReduce Function2 personal](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/MapReduceExp2.png)
 
+This function counts how many times a customer is registered in the database and is usefull for example if you have a reward program or want to know who your return customers are. 
+
+# Pending issues
+I dont think there are any pending issues. 
