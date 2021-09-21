@@ -1,5 +1,7 @@
 # dat250oblig1
 
-expass1 *done*
-expass2 *done*
-expass3 
+expass1 *done* \n
+
+expass2 *done* \n
+
+expass3 \n
