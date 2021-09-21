@@ -17,19 +17,19 @@ I did download the file and followed the procedure aswell.
 
 ### Crud - Insert Documents
 
-![Insert]()Remo
+![Insert](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/InsertDoc.png)
 
 ### Crud - Query Documents
 
-![Query]()
+![Query](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/QueryDoc.png)
 
 ### Crud - Update Documents
 
-![Update]()
+![Update](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/UpdateDoc.png)
 
 ### Crud  - Remove Documents
 
-![Remove]()
+![Remove](https://github.com/Gudolv/dat250oblig1/blob/main/Screenshots/RemoveDoc.png)
 
 ### Crud - Bulk Write Operations
 
