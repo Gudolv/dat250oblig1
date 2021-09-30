@@ -8,7 +8,7 @@ Otherwise things went smoothly.
   
 ## Code
   
-[Experiment 4](https://github.com/Gudolv/restapi-experiment)
+[Experiment 4](https://github.com/Gudolv/restapi-experiment/tree/master)
   
 ## Pending issues
   
