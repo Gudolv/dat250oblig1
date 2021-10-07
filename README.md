@@ -7,3 +7,5 @@
 [expass3](https://github.com/Gudolv/dat250oblig1/blob/main/dat250-expass3.md) *done*
 
 [expass4](https://github.com/Gudolv/dat250oblig1/blob/main/dat250-expass4.md) *done*
+
+[expass5](https://github.com/Gudolv/dat250oblig1/blob/main/dat250-expass5.md) *done*
